@@ -6,7 +6,7 @@
       "use": "@vercel/static"
     },
     {
-      "src": "backend/server.js",  // Updated path
+      "src": "backend/server.js",
       "use": "@vercel/node"
     }
   ],
