@@ -11,7 +11,7 @@ To install this application, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd marketplace-testnew
+   cd technicaltest_MERN
    ```
 3. Install the required dependencies:
    ```bash
