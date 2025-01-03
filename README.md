@@ -31,6 +31,16 @@ Once the application is running, you can access it in your browser at `http://lo
 - **Category Management**: Organize products into categories.
 - **Order Management**: Process customer orders efficiently.
 
+## Technology Stack
+
+This application is built using the following technologies:
+
+- **Frontend**: React (with JSX)
+  - The frontend is developed using React, a popular JavaScript library for building user interfaces. JSX is used for templating, allowing for a more readable and expressive syntax when creating UI components.
+
+- **Backend**: Node.js, Express, MongoDB
+  - The backend is built on Node.js, a JavaScript runtime that allows for server-side development. Express is used as the web application framework, providing robust features for building web and mobile applications. MongoDB is utilized as the database to store application data, offering a flexible and scalable solution.
+
 ## Detailed Usage
 
 ### Backend Usage
